@@ -441,6 +441,10 @@ main{
     text-align: end;
 }
 
+.about-us__image img{
+    border-radius: 10px;
+}
+
 .about-us .about-us__content {
     height: 100%;
     display: flex;
